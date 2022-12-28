@@ -1,2 +1,2 @@
-hello thiz is my file github repo
+hello this is my file github repo
 i love python
